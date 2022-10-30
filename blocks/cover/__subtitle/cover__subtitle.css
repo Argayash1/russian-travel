@@ -1,0 +1,23 @@
+.cover__subtitle{
+    font-family: 'Inter';
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 22px;
+    margin: 16px 0 0;
+    max-width: 360px;
+    text-align: center;
+}
+
+@media screen and (max-width: 984px){
+    .cover__subtitle {
+        max-width: 50%;
+    }
+}
+
+@media screen and (max-width: 568px){
+    .cover__subtitle {
+        font-size: 14px;
+        line-height: 16px;
+        margin: 8px 0 0;
+    }
+}
