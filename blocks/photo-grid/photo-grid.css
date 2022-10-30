@@ -3,8 +3,9 @@
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(284px, 1fr));
     grid-template-rows: repeat(auto-fit, minmax(213px, 1fr));
+    gap: 16px;
     padding: 0 48px;
-    gap: 16px; 
+    margin: 0;
 }
 
 
