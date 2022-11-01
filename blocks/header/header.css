@@ -5,7 +5,7 @@
     padding: 0 48px 0;
     display: flex;
     justify-content: space-between;
-    font-family: 'Inter', Arial, sans-serif;
+    font-family: 'Inter', 'Helvetica Neue', 'Arial', sans-serif;
 }
 
 @media screen and (max-width: 984px){

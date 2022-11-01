@@ -4,6 +4,17 @@
     line-height: 1.4;
     letter-spacing: 1.5px;
     text-transform: uppercase;
-    color: #FFFFFF;
     margin: 8px 0 0;
+}
+
+@media screen and (max-width: 984px){
+    .lead__caption{
+        margin: 8px 0 0 24px; 
+    }
+}
+
+@media screen and (max-width: 568px){
+    .lead__caption{
+        margin: 8px 0 0 16px; 
+    }
 }

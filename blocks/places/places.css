@@ -1,6 +1,7 @@
 .places{
     display: flex;
     flex-direction: column;
+    font-family: 'Inter', 'Helvetica Neue', 'Arial', sans-serif;
 }
 
 
