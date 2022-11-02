@@ -17,4 +17,4 @@ Alt-H1
 ## Ссылка на проект в github-pages:
 https://argayash1.github.io/russian-travel/
 
-Жалею увлекательного изучения!
+Желаю увлекательного изучения!
