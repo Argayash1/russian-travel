@@ -7,10 +7,6 @@
     text-decoration-line: none;
 }
 
-.header__lang-link:first-of-type{
-    margin-right: 18px;
-    text-decoration-line: underline;
-}
 
 @media screen and (max-width: 568px){
     .header__lang-link{
