@@ -1,9 +1,0 @@
-.lead{
-    max-width: 984px;
-    max-height: 1005px;
-    padding: 0;
-    margin: 0 auto;
-    display: flex;
-    flex-direction: column;
-    font-family: 'Inter', Arial, sans-serif;
-}
