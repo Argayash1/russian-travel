@@ -1,4 +1,6 @@
 .place__website{
+    display: flex;
+    flex-direction: column;
     grid-area: place__website;
     align-self: flex-end;
 }
