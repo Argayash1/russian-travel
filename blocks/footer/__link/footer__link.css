@@ -4,15 +4,15 @@
     line-height: 1.12;
     color: #FFFFFF;
     text-decoration: none;
-    margin: 0 18px 0 0;
+    margin: 0;
     padding: 0;
     opacity: 1;
     transition: opacity 1s linear;
+   
 }
 
-@media screen and (max-width: 568px) {
+@media screen and (max-width: 708px) {
     .footer__link{
-        margin: 0 0 32px;
         font-size: 24px;
         line-height: 1;
     }
