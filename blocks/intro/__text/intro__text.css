@@ -4,4 +4,24 @@
     font-size: 16px;
     line-height: 1.63;
     margin: 40px 0 33px;
+    margin: 0;
+}
+
+@media screen and (max-width: 1024px){
+    .intro__text{
+        margin: 0 0 0 48px;
+    }
+}
+
+@media screen and (max-width: 984px){
+    .intro__text{
+        max-width: 690px;
+        margin: 0 24px;
+    }
+}
+
+@media screen and (max-width: 568px){
+    .intro__text{
+        margin: 0 16px;
+    }
 }
