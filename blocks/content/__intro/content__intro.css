@@ -1,15 +1,15 @@
 .content__intro{
-    margin-top: 92px;
+    margin: 92px auto 0;
 }
 
 @media screen and (max-width: 984px){
     .content__intro{
-        margin-top: 88px;
+        margin: 88px auto 0;
     }
 }
 
 @media screen and (max-width: 568px){
     .content__intro{
-        margin-top: 64px;
+        margin: 64px auto 0;
     }
 }
