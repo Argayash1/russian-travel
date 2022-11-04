@@ -8,7 +8,7 @@
     "place__image place__text";
     gap: 48px 40px;
     font-family: 'Inter', 'Helvetica Neue', 'Arial', sans-serif;
-    padding: 0 148px 80px;
+    margin: 0 148px 80px;
 }
 
 @media screen and (max-width: 1124px) {
@@ -27,7 +27,7 @@
         grid-template-columns: minmax(340px, 1fr) minmax(min-content, max-content);
         grid-template-rows: minmax(min-content, max-content) minmax(340px, 1fr);
         gap: 48px 28px;
-        margin: 0 24px 80px;
+        margin: 0 24px 72px;
     }
 }
 
@@ -41,7 +41,8 @@
         "place__website"
         "place__image" 
         "place__text";
-        margin: 0 0 80px;
+        gap: 32px;
+        margin: 0 0 50px;
     }
 }
 

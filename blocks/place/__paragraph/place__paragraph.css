@@ -2,10 +2,14 @@
     font-weight: 400;
     font-size: 18px;
     line-height: 1.63;
-    color: #FFFFFF;
     margin: 0;
 }
 
+@media screen and (max-width: 984px){
+    .place__paragraph{
+        font-size: 16px;
+    }
+}
 .place__paragraph:nth-of-type(2n){
     margin: 26px 0 0;
 }

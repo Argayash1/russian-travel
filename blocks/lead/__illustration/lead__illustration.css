@@ -1,3 +1,9 @@
 .lead__illustration{
     margin: 0;
 }
+
+@media screen and (max-width: 1024px){
+    .lead__illustration{
+        margin: 0 48px;
+}   
+}

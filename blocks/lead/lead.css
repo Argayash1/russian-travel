@@ -6,7 +6,7 @@
     font-family: 'Inter', 'Helvetica Neue', 'Arial', sans-serif;
 }
 
-@media screen and (max-width: 984px){
+@media screen and (max-width: 1024px){
     .lead{
         margin: 0;
         max-width: 100%; 
