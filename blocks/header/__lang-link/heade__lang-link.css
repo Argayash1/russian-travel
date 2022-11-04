@@ -5,6 +5,8 @@
     text-align: right;
     color: #FFFFFF;
     text-decoration-line: none;
+    opacity: 1;
+    transition: opacity 1s linear;
 }
 
 
@@ -14,3 +16,7 @@
         line-height: 20px;
     }
 }
+
+.header__lang-link:hover{
+    opacity: 0.8;
+   }

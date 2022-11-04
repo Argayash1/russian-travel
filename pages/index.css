@@ -12,7 +12,6 @@
 @import url(../blocks/header/__lang-link/heade__lang-link.css);
 @import url(../blocks/header/__lang-link/_active/header__lang-link_active.css);
 
-@import url(../blocks/content/content.css);
 @import url(../blocks/content/__cover/content__cover.css);
 @import url(../blocks/content/__intro/content__intro.css);
 @import url(../blocks/content/__photo-grid/content__photo-grid.css);
