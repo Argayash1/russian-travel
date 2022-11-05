@@ -2,6 +2,7 @@
     font-weight: 400;
     font-size: 18px;
     line-height: 1.22;
+    max-width: fit-content;
     color: #FFFFFF;
     margin: 0;
     opacity: 1;
@@ -11,4 +12,3 @@
 .place__link:hover{
      opacity: 0.8;
 }
-
