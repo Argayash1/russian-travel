@@ -7,3 +7,9 @@
         margin: 0 48px;
 }   
 }
+
+@media screen and (max-width: 984px){
+    .lead__illustration{
+        margin: 0;
+}   
+}
